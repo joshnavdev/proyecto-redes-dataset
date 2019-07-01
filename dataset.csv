@@ -1,4 +1,4 @@
-﻿,Edad,Sexo,Trabajo,Alojamiento,Cuenta de ahorros,Monto de credito,Duracion,Proposito,Riesgo
+﻿ID,Edad,Sexo,Trabajo,Alojamiento,Cuenta de ahorros,Monto de credito,Duracion,Proposito,Riesgo
 0,67,M,2,propio,NA,1169,6,radio/TV,bueno
 1,22,F,2,propio,poco,5951,48,radio/TV,malo
 2,49,M,1,propio,poco,2096,12,educacion,bueno
